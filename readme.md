@@ -1,6 +1,5 @@
-# The model implelentation is from colab due to githubs shortage of size capabilit, sorry
 https://colab.research.google.com/drive/1WBBIvW670fn0Fzz86qQfynN3USb8vS-n?usp=sharing
-
+### I am sorry to say this: The model implelentation is from colab due to githubs shortage of size capabilit
 # Overview
 
 This project encompasses a comprehensive machine learning pipeline tailored for the telecom dataset. It is designed to cater to a diverse audience, including customers and businesses, with a primary focus on investigating customer behavior. The analyses conducted aim to enhance engagement, satisfaction, and reduce retention.
