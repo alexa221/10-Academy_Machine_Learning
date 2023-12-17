@@ -1,4 +1,4 @@
-#The model implelentation is from colab due to githubs shortage of size capabilit, sorry
+# The model implelentation is from colab due to githubs shortage of size capabilit, sorry
 https://colab.research.google.com/drive/1WBBIvW670fn0Fzz86qQfynN3USb8vS-n?usp=sharing
 
 # Overview
