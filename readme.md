@@ -1,17 +1,3 @@
-# Table of Contents
-
-1. [Overview](#overview)
-    1.1 [Key Features](#key-features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-    3.1 [Data Preparation](#data-preparation)
-        3.1.1 [Cleaning](#cleaning)
-        3.1.2 [Feature Engineering](#feature-engineering)
-    3.2 [Customer Behavior Analysis](#customer-behavior-analysis)
-    3.3 [Engagement and Satisfaction Enhancement](#engagement-and-satisfaction-enhancement)
-    3.4 [Retention Reduction Strategies](#retention-reduction-strategies)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 # Overview
 
